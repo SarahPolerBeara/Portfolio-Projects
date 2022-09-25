@@ -1,0 +1,5 @@
+The data for this project came from https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2022?select=TikTok_songs_2022.csv
+
+This is a quick example data preprocessing and modeling in Python. As a note, the data was fairly small. Additionally,
+the target variable 'track_pop' is meant to designate how popular a song is on TikTok. Ostensibly, the higher this value,
+the more popular a song will be. 
